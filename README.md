@@ -27,6 +27,9 @@ A Star Wars search app with autocomplete, built using Shadcn UI, Tailwind CSS, R
 - **Edit Feature**:  
   Each result can be edited directly on the category page, allowing for flexible data interaction.
 
+- **Create Feature**:  
+  You can add a new character to the table using the **“Create”** button, allowing you to expand the list of characters.
+
 ## Technologies Used
 
 Frontend:
@@ -60,28 +63,21 @@ To run this application locally, follow these steps:
 
    ```
 
-3. Setup Frontend environment
-
-   ```bash
-    cd Frontend
-
-   ```
-
-4. Install Frontend dependencies
+3. Install Frontend dependencies
 
    ```bash
     pnpm install
 
    ```
 
-5. Start the Frontend development server
+4. Start the Frontend development server
 
    ```bash
    pnpm run dev
 
    ```
 
-6. The Frontend will run on http://localhost:5173
+5. The Frontend will run on http://localhost:5173
 
 ## Authors
 

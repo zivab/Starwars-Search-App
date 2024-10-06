@@ -53,7 +53,7 @@ To run this application locally, follow these steps:
    git clone https://github.com/zivab/Starwars-Search-App.git
    ```
 
-2. Access the project.
+2. Access the project
 
    ```bash
    cd Starwars-Search-App
@@ -67,21 +67,21 @@ To run this application locally, follow these steps:
 
    ```
 
-4. Install Frontend dependencies.
+4. Install Frontend dependencies
 
    ```bash
     pnpm install
 
    ```
 
-5. Start the Frontend development server.
+5. Start the Frontend development server
 
    ```bash
    pnpm run dev
 
    ```
 
-6. The Frontend will run on port 3000.
+6. The Frontend will run on http://localhost:5173
 
 ## Authors
 

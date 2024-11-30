@@ -46,6 +46,10 @@ Frontend:
 - [Lucide](https://lucide.dev/guide/packages/lucide-react)
 - [ESLint](https://eslint.org)
 
+## Demo
+
+[Starwars-Search-App](https://star-wars-search-z.netlify.app/)
+
 ## Installation
 
 To run this application locally, follow these steps:
